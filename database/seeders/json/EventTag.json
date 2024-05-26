@@ -1,0 +1,26 @@
+[
+    {
+        "Event_e_id": "b6bd3b21-41d4-4e7e-9ef6-2b3b74b326e9",
+        "Tag_t_id": "3e8bc7fc-54da-4e19-9f13-d4f4b5a1cf32"
+    },
+    {
+        "Event_e_id": "b6bd3b21-41d4-4e7e-9ef6-2b3b74b326e9",
+        "Tag_t_id": "a75ebd62-86bf-496b-b87e-0f09a71e3c4a"
+    },
+    {
+        "Event_e_id": "f0f34613-545a-4e19-8f1b-9d4b5c4fc1d7",
+        "Tag_t_id": "b5cc0a6c-0763-496c-b574-fb6184e5bf66"
+    },
+    {
+        "Event_e_id": "f0f34613-545a-4e19-8f1b-9d4b5c4fc1d7",
+        "Tag_t_id": "9e2957e9-439c-4b3d-a5bb-7f862d4a68da"
+    },
+    {
+        "Event_e_id": "d1787e55-822f-4db7-8b3a-95a05b5fc76d",
+        "Tag_t_id": "72e7c8e2-0a9e-4e53-bf09-9d7ce2be6803"
+    },
+    {
+        "Event_e_id": "d1787e55-822f-4db7-8b3a-95a05b5fc76d",
+        "Tag_t_id": "c4f8b7a1-ea02-4c0c-ae06-ff9065cbe75a"
+    }
+]

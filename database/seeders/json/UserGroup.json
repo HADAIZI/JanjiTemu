@@ -1,0 +1,20 @@
+[
+    {
+      "ug_id": "a5416de7-6e7d-4fe0-8d5e-90186504e19f",
+      "User_u_id": 1,
+      "Group_g_id": "4a5d396e-5fc1-4dab-a946-6d6e301a23b2",
+      "Group_Role_gr_id": 1
+    },
+    {
+      "ug_id": "8c712c65-c305-4d64-9a42-9a5cf6a9c8cc",
+      "User_u_id": 2,
+      "Group_g_id": "b11d4531-9c45-4ed4-85a8-7643e06ab1a7",
+      "Group_Role_gr_id": 1
+    },
+    {
+      "ug_id": "f83e7e1f-2a82-45e0-bb84-3b7db9cb8aa6",
+      "User_u_id": 3,
+      "Group_g_id": "87ce82a0-3d70-4bc5-aa2e-d50a86d5c28d",
+      "Group_Role_gr_id": 1
+    }
+  ]

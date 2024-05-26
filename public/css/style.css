@@ -1,0 +1,96 @@
+
+.btn-outline-light:hover {
+    background-color: white !important; /* Change the background color on hover */
+    color: #454681 !important; /* Change the text color on hover */
+}
+
+a {
+    color: #7879DF;
+    text-decoration: none; /* Untuk menghapus dekorasi garis bawah default */
+}
+
+a:hover {
+    text-decoration: underline; /* Untuk menambahkan garis bawah saat dihover */
+}
+
+.custom-btn {
+    background-color: #7879DF;
+    color: white;
+    border-color:#7879DF;
+}
+
+.custom-btn:hover {
+    background-color: white;
+    color: #7879DF;
+    font-weight: 500;
+    border-color: #7879DF;
+    border-width: 3px;
+}
+
+.custom-border {
+    border: 1px solid rgba(0, 0, 0, 0.2); /* Ubah nilai opacity di sini (0.5 adalah 50%) */
+}
+
+.custom-height {
+    height: 30px; /* Sesuaikan nilai tinggi sesuai kebutuhan Anda */
+}
+
+
+.mod-btn-exit {
+    background-color: rgb(198, 17, 17);
+    border-width: 2px;
+    border-color: rgb(198, 17, 17);
+    color: white;
+}
+
+
+.mod-btn-exit:hover {
+    background-color: white;
+    border-width: 3px;
+    border-color: rgb(198, 17, 17);
+    color: rgb(198, 17, 17);
+}
+
+.edit-btn {
+    background-color: forestgreen;
+    color: white;
+    border-color:forestgreen;
+}
+
+.edit-btn:hover {
+    background-color: white;
+    border-width: 3px;
+    border-color: forestgreen;
+    color: forestgreen;
+}
+
+.profile-card {
+    text-align: center;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .profile-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    border: 3px solid #7879DF;
+  }
+
+  .comment-btn {
+    background-color:rgb(78, 174, 225);
+    color: white;
+    border-color:rgb(78, 174, 225);
+  }
+
+  .comment-btn:hover {
+    background-color: white;
+    color: rgb(78, 174, 225);
+    font-weight: 500;
+    border-color: rgb(78, 174, 225);
+    border-width: 3px;
+}

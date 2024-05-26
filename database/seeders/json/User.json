@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "email": "pengguna1@example.com",
+      "password": "password1",
+      "roles_id": 2,
+      "first_name": "Ahmad",
+      "last_name": "Djumiran"
+    },
+    {
+      "id": 2,
+      "email": "pengguna2@example.com",
+      "password": "password2",
+      "roles_id": 2,
+      "first_name": "Mari",
+      "last_name": "Yadi"
+    },
+    {
+      "id": 3,
+      "email": "pengguna3@example.com",
+      "password": "password3",
+      "roles_id": 2,
+      "first_name": "Ahmad",
+      "last_name": "Baihaqi"
+    },
+    {
+      "id": 4,
+      "email": "pengguna4@example.com",
+      "password": "password4",
+      "roles_id": 2,
+      "first_name": "Daffa",
+      "last_name": "Hurra"
+    },
+    {
+      "id": 5,
+      "email": "pengguna5@example.com",
+      "password": "password5",
+      "roles_id": 2,
+      "first_name": "Syukra",
+      "last_name": "Radjiman"
+    },
+    {
+      "id": 6,
+      "email": "pengguna6@example.com",
+      "password": "password6",
+      "roles_id": 2,
+      "first_name": "Akmal",
+      "last_name": "Anom"
+    }
+  ]
+  

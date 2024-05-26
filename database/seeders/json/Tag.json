@@ -1,0 +1,43 @@
+[
+    {
+      "t_id": "3e8bc7fc-54da-4e19-9f13-d4f4b5a1cf32",
+      "t_name": "Community Gathering"
+    },
+    {
+      "t_id": "a75ebd62-86bf-496b-b87e-0f09a71e3c4a",
+      "t_name": "Workshop"
+    },
+    {
+      "t_id": "c4f8b7a1-ea02-4c0c-ae06-ff9065cbe75a",
+      "t_name": "Seminar"
+    },
+    {
+      "t_id": "e92cb847-68e5-4e1f-bd05-72e87d40f663",
+      "t_name": "Exhibition"
+    },
+    {
+      "t_id": "b5cc0a6c-0763-496c-b574-fb6184e5bf66",
+      "t_name": "Networking Event"
+    },
+    {
+      "t_id": "9e2957e9-439c-4b3d-a5bb-7f862d4a68da",
+      "t_name": "Hackathon"
+    },
+    {
+      "t_id": "72e7c8e2-0a9e-4e53-bf09-9d7ce2be6803",
+      "t_name": "Webinar"
+    },
+    {
+      "t_id": "a8cb8ff2-53b2-4c1e-89cf-22480e60e94d",
+      "t_name": "Main Bareng"
+    },
+    {
+      "t_id": "f98b7627-1bb1-417e-a636-3546cc11cf29",
+      "t_name": "Panel Discussion"
+    },
+    {
+      "t_id": "d214a450-88fe-4b92-9102-3d84684d128f",
+      "t_name": "Training Session"
+    }
+  ]
+  

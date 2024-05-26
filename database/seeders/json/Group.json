@@ -1,0 +1,20 @@
+[
+    {
+      "g_id": "87ce82a0-3d70-4bc5-aa2e-d50a86d5c28d",
+      "g_name": "AWS User Group",
+      "g_description": "Group yang menaungi pengguna aws",
+      "g_users": 1
+    },
+    {
+      "g_id": "b11d4531-9c45-4ed4-85a8-7643e06ab1a7",
+      "g_name": "Pokemon Go Lovers",
+      "g_description": "Group pecinta pokemon go, mabar tiap minggu",
+      "g_users": 1
+    },
+    {
+      "g_id": "4a5d396e-5fc1-4dab-a946-6d6e301a23b2",
+      "g_name": "Komunitas Sugar Glider Surabaya Bulak banteng",
+      "g_description": "Komunitas pecinta sugar glider blak banteng dan sekitar",
+      "g_users": 2
+    }
+  ]
